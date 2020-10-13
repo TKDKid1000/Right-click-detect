@@ -47,5 +47,5 @@ Code so far:
         	if (helditem.getType() == Material.FIRE_CHARGE) {
           // program here
        }
-  }
+  } 
 Step 5. You are all done! Replace // program here with whatever code you want. Now if you use an ide it might say that the variables block and world are unused, they are there if you want to say, get the block the player clicked and set it to stone (the example in the source code) if you don’t plan on using those then just remove them.
